@@ -1,0 +1,5 @@
+D:\journal\x64\Debug\journal.vcxproj.AssemblyReference.cache
+D:\journal\x64\Debug\journal.vcxproj.SuggestedBindingRedirects.cache
+D:\journal\x64\Debug\journal.exe
+D:\journal\x64\Debug\journal.Form1.resources
+D:\journal\x64\Debug\journal.vcxproj.GenerateResource.cache
